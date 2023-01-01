@@ -28,8 +28,8 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Enter the world by reading description and hazards to be safe',
+  'No need to beat around the bush, just stay on the grass and have fun',
 ];
 
 export const newFeatures = [
@@ -43,14 +43,14 @@ export const newFeatures = [
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'In the latest update, your vision is made more narrow, making the world more realistic than ever',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of the Metaverse',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
